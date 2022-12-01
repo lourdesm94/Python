@@ -1,5 +1,6 @@
 import random as r
 
+
 class Adivinanza:
     def __init__(self, dato):
         self.codigo = ''
