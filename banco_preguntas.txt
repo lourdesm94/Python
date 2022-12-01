@@ -1,2 +1,7 @@
+MUNDIAL
 
-isaac edito este archivo
+  ¿En qué año tuvo lugar la primera Copa Mundial de Fútbol?
+    A. 1920
+    B. 1930 **
+    C. 1940
+    D. 1950
