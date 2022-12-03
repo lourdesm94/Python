@@ -59,3 +59,216 @@ Mundial Qatar 2022
     Italia
     Francia
     Alemania
+    
+    
+    
+    
+Programación
+
+	Los pilares de la OOP:
+    		A. Accesibilidad; Polimorfismo; Encapsulamiento; Herencia 
+    		B. Polimorfismo; Abstracción; Herencia; Encapsulamiento CORRECTA
+    		C. Herencia; Imaginación; Encapsulamiento; Polimorfismo
+		D. Accesibilidad; Polimorfismo; Encapsulamiento; Herencia
+
+		
+	El encapsulamiento es útil para:
+
+	    A. Proteger las características de un objeto CORRECTA
+	    B. Definir métodos ocultos de una clase
+	    C. Modificar los métodos heredados de una clase
+	    D. Reutilizar y extender una clase
+	    
+	Es una agrupación de objetos con características semejantes:
+
+	    A. Objeto
+	    B. Clase CORRECTA
+	    C. Atributo
+	    D. Método
+	    
+	Añadiendo atributos, métodos ó redefiniendo los métodos heredados de la clase base ¿Qué concepto de la POO estaríamos aplicando?
+
+	    A. Polimorfismo
+	    B. Especialización CORRECTA
+	    C. Encapsulamiento
+	    D. Generalización
+
+	Escoja la opción que NO es un de las características fundamentales de un objeto:
+
+	    A. Estado
+	    B. Clasificación
+	    C. Identificación
+    
+	¿Que es una subclase?
+		La clase que proviene de otras clases. CORRECTA
+		Tipo de programa en visual.
+		Es una variable.
+		Ninguna de las anteriores
+
+	¿Cuál es la diferencia entre clase y objeto?
+		A. Una clase y un objeto son lo mismo
+		B. Una clase es una representación imaginaria de objetos de un mismo tipo mientras que un objeto es un componente de la clase.
+		C. Una clase es la representación abstracta de objetos de un mismo tipo mientras que un objeto es una instanciación/concretización de una clase. CORRECTA
+		D. Un objeto es una representación abstracta de una clase mientras que la clase es una instanciación/concretización de un objeto.
+		
+
+	¿Existe una clase denominada ‘A’ y 3 otras denominadas ‘B’, ‘C’, ‘D’. Cual es el pilar de la POO que permite a estas 3 ultimas clases compartir atributos y métodos de la clase ‘A’ ?
+		A. Herencia CORRECTA
+		B. Accesibilidad
+		C. Encapsulamiento
+		D. Polimorfismo
+		
+		
+	¿Qué es el polimorfismo en la POO?
+		A. El mecanismo por el cual clases de un mismo tipo pueden responder al envío de un mismo mensaje. Dicho de otra forma, clases de distinto tipos con acciones idénticas, pero con un comportamiento concreto especifico.
+		B. El mecanismo por el cual objetos de distinto tipo pueden responder al envió de un mismo mensaje. Dicho de otra forma, objetos de distinto tipos con acciones idénticas, pero con un comportamiento concreto especifico. CORRECTA
+		C. El mecanismo por el cual clases de distinto tipo pueden responder al envió de un mismo mensaje. Dicho de otra forma, clases de distinto tipos con acciones idénticas, pero con un comportamiento concreto especifico.
+		D. El mecanismo por el cual objetos de un mismo tipo pueden responder al envío de un mismo mensaje. Dicho de otra forma, objetos de distinto tipos con acciones idénticas, pero con un comportamiento concreto especifico.
+
+
+	¿Una clase puede manejar objetos?
+		A. Sí CORRECTA
+		B. NO
+	
+	¿Pueden crearse objetos del tipo definido por una clase sin constructor declarado?
+		A. Sí CORRECTA
+		B. No
+		
+	¿Una clase puede tener como nombre un número o su nombre empezar por un número?
+		A. Sí
+		B. No CORRECTA
+
+	¿Qué es Sobrecarga?
+		A. Consiste en hacer referencia a objetos de una clase que puede tomar comportamientos de objetos que son descendientes de esta.
+		B. Es la forma de proteger u ocultar las propiedades de un objetos, estableciendo los permisos y niveles de visibilidad.
+		C. Es la base de la reutilización del código, mediante la herencia se pueden crear relaciones entre objetos que extienden a objetos padres, heredando su comportamiento y estructura interna.
+		D. Consiste en tener un método con el mismo nombre pero diferentes parámetros. CORRECTA
+
+	¿Qué es la Herencia?
+		A. Es la base de la reutilización del código, mediante la herencia se pueden crear relaciones entre objetos que extienden a objetos padres, heredando su comportamiento y estructura interna. CORRECTA
+		B. Es la forma de proteger u ocultar las propiedades de un objetos, estableciendo los permisos y niveles de visibilidad.
+		C. Definen lo que una clase que la implemente debe hacer, mas no la forma como lo hará, podemos decir que las interfaces son completamente abstractas y que todos sus métodos lo son y no poseen implementación.
+		D. Capacidad que tienen los objetos de comportarse de múltiples formas recurriendo a la herencia, en si consiste en hacer referencia a objetos de una clase que puede tomar comportamientos de objetos que son descendientes de esta.
+
+
+	Seleccione la opción correcta para agregar comentarios en Python:
+		A. /*Este es un comentario*/
+		B. //Este es un comentario
+		C. #Este es un comentario CORRECTA
+
+	¿Cuál de las siguientes no es un nombre de variable válido?
+		A. my_var
+		B. my-var CORRECTA
+		C. MyVar
+		D. _myvar
+
+	¿Cómo puedo crear una variable con valor numérico 5?
+		A. x = 5
+		B. x=int(5)
+		C. Todas las anteriores CORRECTA
+
+	¿Cuál es la extensión de archivo usada en Python?
+		A. .py CORRECTA
+		B. .pt
+		C. .pyth
+		D. .pyt
+
+
+	¿Cuál es la forma correcta de crear una función en Python?
+		A. create myFunction():
+		B. def myFunction():	CORRECTA
+		C. function myFunction():
+
+	¿Con cuál método puedo eliminar los espacios en blanco tanto al inicio como al final de una cadena?
+		A. trim()
+		B. strip() CORRECTA
+		C. len()
+		D. ptrim()
+	
+	¿Cuál método puede usado para reemplazar partes de una cadena?
+		A. switch()
+		B. replace() CORRECTA
+		C. repl()
+		D. replaceString()
+
+	¿Cuál de estas colecciones está definida como una Lista?
+		A. ("apple", "banana", "cherry")
+		B. {"apple", "banana", "cherry"}
+		C. {"name":"apple","color":"green"}
+		D. ["apple", "banana", "cherry"] CORRECTA
+
+
+	¿Cuál de estas colecciones está definida como una Tupla?
+		A. ("apple", "banana", "cherry")	CORRECTA
+		B. {"apple", "banana", "cherry"}
+		C. {"name":"apple","color":"green"}
+		D. ["apple", "banana", "cherry"]
+
+
+	¿Cuál de estas colecciones está definida como un Diccionario?
+		A. ("apple", "banana", "cherry")
+		B. {"apple", "banana", "cherry"}
+		C. {"name":"apple","color":"green"} CORRECTA
+		D. ["apple", "banana", "cherry"]
+
+	¿Cuál de estas colecciones está definida como un Set?
+		A. ("apple", "banana", "cherry")
+		B. {"apple", "banana", "cherry"} CORRECTA
+		C. {"name":"apple","color":"green"}
+		D. ["apple", "banana", "cherry"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
