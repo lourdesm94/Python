@@ -217,43 +217,126 @@ Programación
 		C. {"name":"apple","color":"green"}
 		D. ["apple", "banana", "cherry"]
 
+        ¿Quien es el autor de la frase "Pienso, luego existo"?
+	        A. Platón
+		B. Descartes CORRECTA
+		C. Galileo Galilei
+		D. Sócrates
+		
+	¿Cuál es el país más grande y más pequeño del mundo?
+	        A. Rusia y Vaticano  CORRECTA
+		B. Estados Unidos y Malta
+		C. China y Nauru
+		D. India y San Marino
+		
+	¿ Cuál es el libro más vendido en el mundo después de la Biblia?
+	        A. El Señor de los anillos
+		B. Don QUijote de la Mancha  CORRECTA
+		C. El Principito
+		D. La Odisea
+		
+	¿Cuántos decimales tiene el número pi π?
+	        A. Dos
+		B. Cien
+		C. Infinitos  CORRECTA
+		D. Mil
+		
+	La sal comun está formada por dos elementos, ¿Cuáles son?
+	        A. Sodio y potasio
+		B. Sodio y cloro  CORRECTA
+		C. Sodio y carbono
+		D. Potasio y cloro
+		
+	¿Cuántos jugadores por equipo participan en un partido de voleibol?
+                A. 2 jugadores
+		B. 4 jugadores
+		C. 5 jugadores
+		D. 6 jugadores  CORRECTA
+		
+	¿Cuánto tiempo tarda la luz del sol en llegar a la tierra?
+	        A. 12 minutos
+		B. 1 día
+		C. 12 horas
+		D. 8 minutos   CORRECTA
+		
+        ¿En qué periodo de la prehistoria fue descubierto el fuego?
+                A. Neolítico
+		B. Paleolítico  CORRECTA
+		C. Edad de piedra
+		D. Edad media      
+        
+         ¿A quién se le atribuye la frase "Solo sé que no sé nada"?
+                A. Aristóteles
+		B. Sócrates  CORRECTA
+		C. Sófocles
+		D. Salomón
 
+          ¿Cuál es la montaña más alta del continente americano?
+	        A. Monte Everest
+		B. Monte Fuji
+		C. Pico Bolívar
+		D. Aconcagua  CORRECTA
 
+           ¿Cuál es la velocidad de la luz?
+	        A. 299 792 458 metros por segundo  CORRECTA
+		B. 300 000 000 metros por segundo
+		C. 150 000 000 metros por segundo
+		D. 199 792 458 metros por segundo
 
+           ¿En qué país de África el español es la lengua oficial?
+                A. Costa de Marfil
+		B. Sierra Leona
+		C. Guinea ecuatorial CORRECTA
+		D. Cabo Verde
 
+           ¿Cuáles de estas construcciones famosas quedan en los Estados Unidos?
+                A. Lincoln Memorial, Sydney Opera House, Burj Khalifa
+		B. Torre Eiffel, Museo Guggenheim, Abadía de Westminter
+		C. Estatua de la Libertad, puente Golden Gate, Empire State Building CORRECTA
+		D. La ciudad prohibida, la Sagrada Familia, el Panteón
 
+           ¿Cuál de estos países se extiende entre dos continentes?
+                A. Tanzania
+		B. Egipto
+		C. Groenlandia
+		D. Rusia CORRECTA
+ 
+           ¿Cuál fue el recurso utilizado inicialmente por el ser humano para explicar el origen de las cosas?
+                A. La mitología  CORRECTA
+		B. La filosofía
+		C. La biología
+		D. La matemática
+ 
+           ¿Cuál es el orden de los planetas del sistema solar, partiendo desde su centro?
+                A. Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno, Plutón 
+		B. Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno
+		C. Mercurio, Venus, Tierra, Marte, Júpiter, Saturno, Urano, Neptuno  CORRECTA
+		D. Venus, Mercurio, Tierra, Júpiter, Urano, Saturno, Neptuno
+ 
+           ¿Cuáles son los dioses griegos correspondientes a los dioses romanos Júpiter y Plutón?
+                A. Ares y Hermes
+		B. Cronos y Apolo
+		C. Zeus y Hades CORRECTA
+		D. Zeus y Ares
 
+            ¿Cuál es el animal terrestre más grande en la actualidad?
+                A. Jirafa
+		B. Tiburón blanco
+		C. Ballena azul
+		D. Elefante africano  CORRECTA
 
+            ¿Cuáles son los nombres de los tres reyes magos?
+	        A. Gaspar, Nicolas y Nataniel
+		B. Gaspar, Melchor y Baltazar CORRECTA
+		C. Simon, Judas y Mateo
+		D. Abraham, Noé y Moises
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+             ¿Quién fue el primer hombre en pisar la Luna?
+                A. Yuri Gagarin
+		B. Charles Conrad
+		C. Neil Armstrong  CORRECTA
+		D. Michael Collins
+ 
 
 
 
