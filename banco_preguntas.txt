@@ -18,11 +18,11 @@ Mundial Qatar 2022
 		C. Un lobo - CORRECTA
 		D. Un loro
 
-  ¿Cuál de estas mascotas no pertenece a la historia del Mundial?
+  ¿Cuál de estas mascotas NO pertenece a la historia del Mundial?
 		A. Fuleco
 		B. Footix
 		C. Naranjito
-		D. TopTip
+		D. TopTip CORRECTA
 
   5. ¿A qué futbolista se conoce con el apodo de Harry Potter?
     Luis Arturo Hernández Carreón
@@ -44,7 +44,7 @@ Mundial Qatar 2022
 
   ¿Dónde se jugó la Copa del Mundial del año 2010?
     Italia
-    Sudáfrica
+    Sudáfrica CORRECTA
     Brasil
     Estados Unidos
 
@@ -97,7 +97,7 @@ Programación
 
 	    A. Estado
 	    B. Clasificación
-	    C. Identificación
+	    C. Identificación CORRECTA
     
 	¿Que es una subclase?
 		La clase que proviene de otras clases. CORRECTA
