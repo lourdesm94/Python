@@ -216,6 +216,9 @@ Programación
 		B. {"apple", "banana", "cherry"} CORRECTA
 		C. {"name":"apple","color":"green"}
 		D. ["apple", "banana", "cherry"]
+		
+		
+Historia
 
         ¿Quien es el autor de la frase "Pienso, luego existo"?
 	        A. Platón
@@ -336,22 +339,3 @@ Programación
 		B. Charles Conrad
 		C. Neil Armstrong  CORRECTA
 		D. Michael Collins
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
